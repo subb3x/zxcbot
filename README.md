@@ -1,5 +1,5 @@
 # zxcbot
-!! MAKE SURE THAT YOU CHANGED ALL CONFIG VALUES IN config.py BEFORE STARTING THE BOT !!
+!! MAKE SURE THAT YOU CHANGED ALL CONFIG VALUES IN config.py AND CREATED 'zxcbot' DATABASE BEFORE STARTING THE BOT !!
 
 This is the bot for discord, that was made by me on python for my portfolio.
 
